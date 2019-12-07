@@ -3,6 +3,8 @@
 #include <string.h>
 //#include "lista.h"
 /*
+lista circular com sentinela e duplamente encadeada
+utilizando iteradores para percorrer ela
 Nicolas Marcondes Molina
 RA: 743584
 */
