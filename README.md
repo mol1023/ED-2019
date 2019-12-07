@@ -1,2 +1,3 @@
 # ED-2019
-exercises 
+
+Hi, just some exercises from data structure classes.
